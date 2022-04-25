@@ -6,16 +6,8 @@ using GeometriaiAlakzatokProjekt.Model.Interfaces;
 
 namespace GeometriaiAlakzatokProjekt.Model
 {
-    class Square : IShape
+    class Square 
     {
-        public double Area()
-        {
-            throw new NotImplementedException();
-        }
 
-        public double Perimeter()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

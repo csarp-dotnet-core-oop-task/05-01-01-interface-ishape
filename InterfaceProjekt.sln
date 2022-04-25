@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometriaiAlakzatProjekt", "InterfaceProjekt\GeometriaiAlakzatProjekt.csproj", "{0AD43646-7723-483A-AEA4-A094CE6FAAAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SokszogProjekt", "SokszögProjekt\SokszogProjekt.csproj", "{ACE81B59-71CC-45C6-89AD-64E94C94BA8A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{0AD43646-7723-483A-AEA4-A094CE6FAAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AD43646-7723-483A-AEA4-A094CE6FAAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AD43646-7723-483A-AEA4-A094CE6FAAAB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ACE81B59-71CC-45C6-89AD-64E94C94BA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ACE81B59-71CC-45C6-89AD-64E94C94BA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ACE81B59-71CC-45C6-89AD-64E94C94BA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ACE81B59-71CC-45C6-89AD-64E94C94BA8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
