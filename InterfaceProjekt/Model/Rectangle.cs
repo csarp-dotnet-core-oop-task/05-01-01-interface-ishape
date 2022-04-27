@@ -4,7 +4,7 @@ using System.Text;
 
 using GeometriaiAlakzatokProjekt.Model.Interfaces;
 
-namespace GeometriaiAlakzatProjekt.Model
+namespace GeometriaiAlakzatokProjekt.Model
 {
     class Rectangle : IShape
     {
